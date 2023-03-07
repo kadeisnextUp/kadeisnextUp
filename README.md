@@ -1,6 +1,6 @@
 - 👋 Yo, I’m @kadeisnextUp
-- 👀 I’m interested in crypto, nfts, and computer sciecne related stuff
-- 🌱 I’m currently a college student
+- 👀 Shinzō o sasageyo
+- 🌱 I’m currently a college student majoring in computer science!
 
 <!---
 kadeisnextUp/kadeisnextUp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
