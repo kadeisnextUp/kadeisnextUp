@@ -1,5 +1,5 @@
 - 👋 Yo, I’m @kadeisnextUp
-- 👀 Shinzō o sasageyo
+- 👀 心臓 を 捧げよ
 - 🌱 I’m currently a college student majoring in computer science!
 
 <!---
